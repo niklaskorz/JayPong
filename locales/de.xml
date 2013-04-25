@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<locales>
+	<welcomeTitle>Willkommen</welcomeTitle>
+	<welcomeMessage>
+		Das Spiel startet nachdem du auf den OK-Button geklickt hast.
+		Diese Version sollte mit zwei Spielern gespielt werden,
+		aber du kannst es auch alleine probieren.
+    </welcomeMessage>
+
+	<firstPlayerWonTitle>Spieler 1 hat gewonnen</firstPlayerWonTitle>
+	<firstPlayerWonMessage>
+		Herzlichen Glückwunsch, Spieler 1!
+		Du hast gewonnen!
+	</firstPlayerWonMessage>
+
+	<secondPlayerWonTitle>Spieler 2 hat gewonnen</secondPlayerWonTitle>
+	<secondPlayerWonMessage>
+		Herzlichen Glückwunsch, Spieler 2!
+		Du hast gewonnen!
+	</secondPlayerWonMessage>
+	
+	<pOne>Spieler 1</pOne>
+	<pTwo>Spieler 2</pTwo>
+	<scores>Punktzahlen</scores>
+</locales>
