@@ -1,4 +1,4 @@
 JayPong
 =======
 
-Pong written in Java
+A Java pong clone I wrote in 2011.
